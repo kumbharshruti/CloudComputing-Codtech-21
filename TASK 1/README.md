@@ -22,7 +22,7 @@ Steps Followed
   ![Bucket Creation](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/70d36228ca6b95e48a72880022df5f25e058389b/TASK%201/codtech1.png)
 
 - Files uploaded  
-  ![Files Uploaded](screenshots/files-uploaded.png)
+  ![Files Uploaded](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/ae9f54aae3134ba359a45dee258b72487a99543b/TASK%201/codtech2.png)
 
 - Permissions configuration  
   ![Permissions](screenshots/permissions.png)
