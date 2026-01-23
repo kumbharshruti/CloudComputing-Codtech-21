@@ -25,7 +25,7 @@ Steps Followed
   ![Files Uploaded](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/ae9f54aae3134ba359a45dee258b72487a99543b/TASK%201/codtech2.png)
 
 - Permissions configuration  
-  ![Permissions](screenshots/permissions.png)
+  ![Permissions](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/7aeed8e766b2628841a326673b2c714b2154ab31/TASK%201/codetech3.png)
 
 ---
 
