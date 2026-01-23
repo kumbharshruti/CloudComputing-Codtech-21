@@ -19,7 +19,7 @@ Steps Followed
 
  Screenshots
 - Bucket creation  
-  ![Bucket Creation](screenshots/bucket-created.png)
+  ![Bucket Creation](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/70d36228ca6b95e48a72880022df5f25e058389b/TASK%201/codtech1.png)
 
 - Files uploaded  
   ![Files Uploaded](screenshots/files-uploaded.png)
