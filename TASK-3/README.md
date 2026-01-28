@@ -1,6 +1,6 @@
 # Multi-Cloud Data Transfer with AWS and GCP
 
-![]()
+![](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/d37dc6d921f95ccbc2a22c932fa036399eab53f0/TASK-3/First.png)
 
 # Introducing Today's Project!
 
