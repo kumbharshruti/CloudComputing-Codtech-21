@@ -36,7 +36,7 @@
 - Files are ultimately stored, retrieved, or processed here.
 - Offers scalability, durability, and cross‑cloud accessibility.
 
-![]()
+![](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/76404d809d203a1c7db4cb0032adc1be0e6fb485/TASK-3/Architecture.png)
 
 
 # Setting up Data in S3
