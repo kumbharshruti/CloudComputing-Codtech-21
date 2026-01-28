@@ -49,7 +49,7 @@
 
 - Google Cloud Platform is a suite of cloud services by Google, offering storage, compute, databases, and more. I set up a GCP account to create a destination for data from AWS S3 and to use Storage Transfer Service for cross-cloud backups.
 
-![]()
+![](https://github.com/kumbharshruti/CloudComputing-Codtech-21/blob/731dd1cbb88ab0e7269f52e9ae551f755ee97ea9/TASK-3/google%20cloud.png)
 
 # Storage Transfer
 
